@@ -3,7 +3,7 @@
     void work(){
       Buffer b;
       init(b);
-      do_sth(b);
+      do_sth(b);sdf
       del(&b);
     };
 
